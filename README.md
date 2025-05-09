@@ -22,12 +22,6 @@
 - **The Quest Explorer** – A gamified mobile tourism app for exploring places using quests (React Native + Firebase)  
 - **ML Rent Predictor** – Predicting rental prices in KL using machine learning models
 
----
-
-### 📈 GitHub Stats
-
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
